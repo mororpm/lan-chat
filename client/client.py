@@ -1,7 +1,7 @@
 import socket
 from common.config import PORT, BUFFER_SIZE, ENCODING
 
-SERVER_IP = "192.168.1.10"  # <-- set Windows server LAN IP here
+SERVER_IP = "192.168.1.198"  # <-- set Windows server LAN IP here
 
 
 def main():
